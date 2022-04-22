@@ -6,4 +6,4 @@ Update refers to making a HTTP PATCH request
 Delete refers to making a HTTP Delete request.
 
 
-In the App, Individual User's Account can be Updated, Deleted, Adjusted and even a completely new account created.
+In the App, Individual User's Account can be Updated, Deleted, Adjusted and even a completely new account created on the MongoDB database of the App and through the FrontEnd.
